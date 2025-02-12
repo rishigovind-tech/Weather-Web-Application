@@ -12,7 +12,7 @@
 
 🚀 Features:
 
-  -🔍 **Search** for weather by city name.
+  - 🌡️ Displays **temperature**, **humidity**, and **wind speed**.
   - 🌡️ Displays **temperature**, **humidity**, and **wind speed**.
   - 🌥️ Dynamic weather icons based on the current weather (e.g., clear, clouds, rain).
   - 🌐 User-friendly interface with smooth animations and a background video.
