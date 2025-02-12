@@ -23,3 +23,7 @@
   - Enter the name of a city in the search box. 🏙️
   - Click the search button 🔍 to view the weather for that city.
   - The app will display **temperature** 🌡️, **humidity** 💧, **wind speed** 💨, and a corresponding **weather icon** 🌈.
+
+🖼️ Screenshots:
+
+![Screenshot](weather App.png)
