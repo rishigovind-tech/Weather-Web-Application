@@ -27,4 +27,4 @@
 🖼️ Screenshots:
 
 ### 1. Weather App Screenshot
-![Weather App](weather%20app.png)
+![Weather App](Weather.png)
